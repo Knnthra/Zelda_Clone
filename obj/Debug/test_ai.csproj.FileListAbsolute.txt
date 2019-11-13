@@ -1,0 +1,375 @@
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\back\0.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\back\1.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\back\2.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\back\3.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\back\4.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\back\5.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\back\6.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\back\7.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\back\8.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\front\0.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\front\1.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\front\2.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\front\3.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\front\4.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\front\5.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\front\6.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\front\7.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\front\8.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\left\0.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\left\1.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\left\2.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\left\3.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\left\4.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\left\5.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\left\6.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\left\7.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\left\8.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\right\0.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\right\1.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\right\2.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\right\3.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\right\4.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\right\5.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\right\6.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\right\7.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\atk\right\8.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\back\0.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\back\1.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\back\10.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\back\11.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\back\2.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\back\3.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\back\4.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\back\5.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\back\6.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\back\7.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\back\8.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\back\9.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\front\0.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\front\1.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\front\10.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\front\11.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\front\2.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\front\3.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\front\4.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\front\5.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\front\6.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\front\7.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\front\8.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\front\9.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\left\0.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\left\1.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\left\2.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\left\3.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\left\4.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\left\5.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\left\6.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\left\7.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\right\0.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\right\1.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\right\2.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\right\3.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\right\4.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\right\5.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\right\6.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\char1\run\right\7.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\charactersheet\inventory.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\Icons\loot.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\Icons\none.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\Icons\sword.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\world\00.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\world\01.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\world\10.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\world\11.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\test_ai.exe
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\bin\Debug\test_ai.pdb
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\obj\Debug\ResolveAssemblyReference.cache
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\obj\Debug\test_ai.GameForm.resources
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\obj\Debug\test_ai.Properties.Resources.resources
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\obj\Debug\test_ai.csproj.GenerateResource.Cache
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\obj\Debug\test_ai.exe
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\Backup\obj\Debug\test_ai.pdb
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\gameobjects.txt
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\characterbased\dialogbox.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\characterbased\inventory.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\boots.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\chest.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\gloves.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\head.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\loot.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\questitem_crystal.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\questitem_key.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\questitem_map.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\weapon.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (10).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (11).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (12).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (10).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (11).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (12).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\0;0;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\0;1;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\0;2;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\0;3;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\1;0;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\2;0;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\2;2;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\2;3;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\3;0;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\3;1;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\3;2;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\3;3;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\4;0;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\4;1;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\4;2;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\Enemy.cs
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\test_ai.exe
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\test_ai.pdb
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\test_ai.Properties.Resources.resources
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\test_ai.csproj.GenerateResource.Cache
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\test_ai.exe
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\test_ai.pdb
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\dialogresponses.txt
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\dialogresponses.txt
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\gameobjects.txt
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\characterbased\dialogbox.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\characterbased\inventory.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\boots.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\chest.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\gloves.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\head.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\healthcake.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\loot.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\questitem_crystal.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\questitem_key.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\questitem_map.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\weapon.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (1).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (2).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (3).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (4).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (5).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (6).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (7).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (8).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (9).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (1).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (2).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (3).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (4).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (5).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (6).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (7).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (8).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (9).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (1).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (2).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (3).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (4).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (5).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (6).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (7).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (8).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (9).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (1).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (2).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (3).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (4).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (5).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (6).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (7).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (8).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (9).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (1).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (10).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (11).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (12).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (2).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (3).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (4).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (5).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (6).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (7).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (8).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (9).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (1).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (10).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (11).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (12).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (2).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (3).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (4).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (5).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (6).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (7).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (8).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (9).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (1).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (2).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (3).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (4).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (5).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (6).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (7).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (8).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (1).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (2).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (3).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (4).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (5).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (6).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (7).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (8).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_bk_ (1).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_bk_ (2).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_bk_ (3).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_bk_ (4).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_front_ (1).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_front_ (2).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_front_ (3).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_front_ (4).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_left_ (1).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_left_ (2).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_left_ (3).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_left_ (4).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_right_ (1).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_right_ (2).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_right_ (3).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_right_ (4).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_bk_ (1).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_bk_ (2).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_front_ (1).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_front_ (2).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_left_ (1).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_left_ (2).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_right_ (1).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_right_ (2).png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\0;0;.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\0;1;.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\0;2;.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\0;3;.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\1;0;.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\2;0;.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\2;2;.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\2;3;.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\3;0;.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\3;1;.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\3;2;.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\3;3;.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\4;0;.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\4;1;.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\4;2;.png
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\Enemy.cs
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\test_ai.exe
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\test_ai.pdb
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\ResolveAssemblyReference.cache
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\test_ai.GameForm.resources
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\test_ai.Properties.Resources.resources
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\test_ai.csproj.GenerateResource.Cache
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\test_ai.exe
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\test_ai.pdb
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\healthcake.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\sounds\background.wav
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\sounds\background.wav
+D:\Programs\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\test_ai.EnterName.resources
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (09).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (09).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (09).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (09).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (09).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (09).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_bk_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_bk_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_bk_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_bk_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_front_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_front_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_front_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_front_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_left_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_left_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_left_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_left_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_right_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_right_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_right_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_right_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_bk_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_bk_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_front_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_front_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_left_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_left_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_right_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_right_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\startscreen.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\finishscreen.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\deadscreen.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\EksamenJuni2010.EnterName.resources
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\EksamenJuni2010.GameForm.resources

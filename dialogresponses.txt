@@ -1,0 +1,27 @@
+﻿town;I just heard about your family, I am so sorry.
+town;Im just waiting for the inn to open. I havent been drunk since yesterday.
+town;Hello..
+town;How are you?
+town;Are you hurt? Paul's health-cake can probably cheer you up. Go ask him for a piece.
+town;Have you seen my cat? He is called Twinkle, but I havent seen him for the past few days..
+
+vendor;Oh hello.. You look terrible. Here, have some of my famous health-cake.
+vendor;Want to know the secret ingredient in my cake? Its....... cat. HAHA!
+vendor;Help yourself. I made too much cake today.
+vendor;You can save some of the cake for later. You never know when you might need it.
+
+guards;........
+guards;Leave or die!
+guards;Go away!
+guards;Stop! Who goes there?
+guards;Come back when you have the three required items.
+
+doornotice;Your family have been imprisoned. They will be released on one condition. Bring the king the 3 hidden magical artifacts. If you refuse, your family will be executed!
+
+deadguy;Urrfff.. I've been beaten!
+deadguy;It hurts!
+deadguy;I will never camp out here again!
+
+taliban;Ahh.. I love the nature.
+taliban;Listen to the birds.
+taliban;Have you seen my friend? He was out camping in the desert, but I havent heard from him for a while.

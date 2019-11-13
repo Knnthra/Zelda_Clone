@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EksamenJuni2010">
+</Property><Property Name="Solution File" Value="C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\EksamenJuni2010.sln">
+</Property><Property Name="Date" Value="14. oktober 2010">
+</Property><Property Name="Time" Value="20:42">
+</Property></Properties><Event ErrorLevel="0" Project="EksamenJuni2010" Source="EksamenJuni2010.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EksamenJuni2010" Source="EksamenJuni2010.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="EksamenJuni2010.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="EksamenJuni2010.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EksamenJuni2010" Source="EksamenJuni2010.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

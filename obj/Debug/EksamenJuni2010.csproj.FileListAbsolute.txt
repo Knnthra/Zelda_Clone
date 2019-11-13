@@ -1,0 +1,428 @@
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\dialogresponses.txt
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\gameobjects.txt
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\characterbased\dialogbox.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\characterbased\inventory.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\deadscreen.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\finishscreen.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\boots.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\chest.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\gloves.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\head.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\healthcake.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\loot.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\questitem_crystal.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\questitem_key.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\questitem_map.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\icons\weapon.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_bk_ (09).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_front_ (09).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_left_ (09).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_atk_right_ (09).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (09).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (10).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (11).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_bk_ (12).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (10).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (11).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (12).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_front_ (09).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_left_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\player_run_right_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_bk_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_bk_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_bk_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_bk_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_front_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_front_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_front_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_front_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_left_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_left_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_left_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_left_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_right_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_right_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_right_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_atk_right_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_bk_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_bk_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_front_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_front_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_left_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_left_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_right_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\sprites\skelet_run_right_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\startscreen.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\0;0;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\0;1;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\0;2;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\0;3;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\1;0;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\2;0;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\2;2;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\2;3;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\3;0;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\3;1;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\3;2;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\3;3;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\4;0;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\4;1;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\graphics\world\4;2;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\sounds\background.wav
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\Enemy.cs
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\EksamenJuni2010.exe
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\bin\Debug\EksamenJuni2010.pdb
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\EksamenJuni2010.EnterName.resources
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\EksamenJuni2010.GameForm.resources
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\EksamenJuni2010.Properties.Resources.resources
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\EksamenJuni2010.csproj.GenerateResource.Cache
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\EksamenJuni2010.exe
+D:\My Dropbox\1. Semestereksamen\Programmering\test_ai\obj\Debug\EksamenJuni2010.pdb
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\dialogresponses.txt
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\gameobjects.txt
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\characterbased\dialogbox.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\characterbased\inventory.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\deadscreen.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\finishscreen.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\boots.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\chest.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\gloves.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\head.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\healthcake.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\loot.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\questitem_crystal.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\questitem_key.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\questitem_map.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\weapon.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_bk_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_bk_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_bk_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_bk_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_bk_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_bk_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_bk_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_bk_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_bk_ (09).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_front_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_front_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_front_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_front_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_front_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_front_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_front_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_front_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_front_ (09).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_left_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_left_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_left_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_left_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_left_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_left_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_left_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_left_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_left_ (09).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_right_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_right_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_right_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_right_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_right_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_right_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_right_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_right_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_right_ (09).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (09).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (10).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (11).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (12).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (10).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (11).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (12).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (09).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_left_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_left_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_left_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_left_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_left_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_left_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_left_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_left_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_right_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_right_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_right_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_right_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_right_ (05).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_right_ (06).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_right_ (07).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_right_ (08).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_bk_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_bk_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_bk_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_bk_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_front_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_front_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_front_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_front_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_left_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_left_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_left_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_left_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_right_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_right_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_right_ (03).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_right_ (04).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_run_bk_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_run_bk_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_run_front_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_run_front_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_run_left_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_run_left_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_run_right_ (01).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_run_right_ (02).png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\startscreen.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\0;0;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\0;1;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\0;2;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\0;3;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\1;0;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\2;0;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\2;2;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\2;3;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\3;0;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\3;1;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\3;2;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\3;3;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\4;0;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\4;1;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\4;2;.png
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\sounds\background.wav
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\Enemy.cs
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\EksamenJuni2010.exe
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\EksamenJuni2010.pdb
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Debug\EksamenJuni2010.EnterName.resources
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Debug\EksamenJuni2010.GameForm.resources
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Debug\EksamenJuni2010.Properties.Resources.resources
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Debug\EksamenJuni2010.csproj.GenerateResource.Cache
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Debug\EksamenJuni2010.exe
+D:\My Dropbox\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Debug\EksamenJuni2010.pdb
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\dialogresponses.txt
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\gameobjects.txt
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\characterbased\dialogbox.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\characterbased\inventory.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\deadscreen.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\finishscreen.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\boots.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\chest.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\gloves.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\head.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\healthcake.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\loot.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\questitem_crystal.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\questitem_key.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\questitem_map.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\icons\weapon.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_bk_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_bk_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_bk_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_bk_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_bk_ (05).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_bk_ (06).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_bk_ (07).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_bk_ (08).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_bk_ (09).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_front_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_front_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_front_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_front_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_front_ (05).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_front_ (06).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_front_ (07).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_front_ (08).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_front_ (09).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_left_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_left_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_left_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_left_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_left_ (05).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_left_ (06).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_left_ (07).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_left_ (08).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_left_ (09).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_right_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_right_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_right_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_right_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_right_ (05).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_right_ (06).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_right_ (07).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_right_ (08).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_atk_right_ (09).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (05).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (06).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (07).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (08).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (09).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (10).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (11).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_bk_ (12).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (10).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (11).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (12).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (05).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (06).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (07).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (08).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_front_ (09).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_left_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_left_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_left_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_left_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_left_ (05).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_left_ (06).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_left_ (07).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_left_ (08).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_right_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_right_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_right_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_right_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_right_ (05).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_right_ (06).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_right_ (07).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\player_run_right_ (08).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_bk_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_bk_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_bk_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_bk_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_front_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_front_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_front_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_front_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_left_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_left_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_left_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_left_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_right_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_right_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_right_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_atk_right_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_run_bk_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_run_bk_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_run_front_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_run_front_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_run_left_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_run_left_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_run_right_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\sprites\skelet_run_right_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\startscreen.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\0;0;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\0;1;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\0;2;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\0;3;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\1;0;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\2;0;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\2;2;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\2;3;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\3;0;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\3;1;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\3;2;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\3;3;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\4;0;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\4;1;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\graphics\world\4;2;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\sounds\background.wav
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\EksamenJuni2010.exe
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Debug\EksamenJuni2010.pdb
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Debug\EksamenJuni2010.EnterName.resources
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Debug\EksamenJuni2010.GameForm.resources
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Debug\EksamenJuni2010.Properties.Resources.resources
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Debug\EksamenJuni2010.csproj.GenerateResource.Cache
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Debug\EksamenJuni2010.exe
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Debug\EksamenJuni2010.pdb

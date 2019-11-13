@@ -1,0 +1,1424 @@
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\dialogresponses.txt
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\gameobjects.txt
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\characterbased\dialogbox.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\characterbased\inventory.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\deadscreen.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\finishscreen.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\icons\boots.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\icons\chest.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\icons\gloves.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\icons\head.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\icons\healthcake.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\icons\loot.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\icons\questitem_crystal.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\icons\questitem_key.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\icons\questitem_map.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\icons\weapon.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (05).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (06).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (07).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (08).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (09).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (05).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (06).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (07).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (08).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (09).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (05).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (06).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (07).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (08).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (09).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (05).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (06).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (07).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (08).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (09).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (05).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (06).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (07).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (08).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (09).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (10).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (11).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (12).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (10).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (11).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (12).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (05).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (06).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (07).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (08).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (09).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (05).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (06).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (07).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (08).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (05).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (06).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (07).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (08).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (03).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (04).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_bk_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_bk_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_front_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_front_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_left_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_left_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_right_ (01).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_right_ (02).png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\startscreen.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\world\0;0;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\world\0;1;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\world\0;2;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\world\0;3;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\world\1;0;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\world\2;0;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\world\2;2;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\world\2;3;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\world\3;0;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\world\3;1;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\world\3;2;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\world\3;3;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\world\4;0;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\world\4;1;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\graphics\world\4;2;.png
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\sounds\background.wav
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\EksamenJuni2010.exe
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\bin\Release\EksamenJuni2010.pdb
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Release\ResolveAssemblyReference.cache
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Release\EksamenJuni2010.EnterName.resources
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Release\EksamenJuni2010.GameForm.resources
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Release\EksamenJuni2010.Properties.Resources.resources
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Release\EksamenJuni2010.csproj.GenerateResource.Cache
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Release\EksamenJuni2010.exe
+D:\My Dropbox\Spildatamatiker\1. Semestereksamen\Programmering\EksamenJuni2010\obj\Release\EksamenJuni2010.pdb
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.exe
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.pdb
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\dialogresponses.txt
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\gameobjects.txt
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\characterbased\dialogbox.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\characterbased\inventory.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\deadscreen.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\finishscreen.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\boots.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\chest.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\gloves.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\head.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\healthcake.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\loot.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_crystal.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_key.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_map.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\weapon.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (01).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (02).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (03).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (04).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (05).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (06).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (07).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (08).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (09).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (01).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (02).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (03).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (04).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (05).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (06).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (07).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (08).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (09).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (01).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (02).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (03).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (04).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (05).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (06).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (07).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (08).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (09).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (01).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (02).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (03).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (04).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (05).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (06).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (07).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (08).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (09).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (01).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (02).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (03).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (04).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (05).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (06).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (07).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (08).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (09).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (10).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (11).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (12).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (01).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (10).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (11).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (12).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (02).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (03).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (04).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (05).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (06).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (07).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (08).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (09).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (01).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (02).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (03).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (04).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (05).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (06).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (07).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (08).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (01).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (02).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (03).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (04).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (05).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (06).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (07).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (08).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (01).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (02).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (03).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (04).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (01).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (02).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (03).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (04).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (01).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (02).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (03).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (04).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (01).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (02).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (03).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (04).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_bk_ (01).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_bk_ (02).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_front_ (01).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_front_ (02).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_left_ (01).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_left_ (02).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_right_ (01).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_right_ (02).png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\startscreen.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;0;.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;1;.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;2;.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;3;.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\1;0;.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\2;0;.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\2;2;.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\2;3;.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;0;.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;1;.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;2;.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;3;.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\4;0;.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\4;1;.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\4;2;.png
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\sounds\background.wav
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\EksamenJuni2010.exe
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\EksamenJuni2010.pdb
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\ResolveAssemblyReference.cache
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.EnterName.resources
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.GameForm.resources
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.Properties.Resources.resources
+D:\My Dropbox\Stuff\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.csproj.GenerateResource.Cache
+D:\My Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.exe
+D:\My Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.pdb
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.exe
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.pdb
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.exe
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.pdb
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\dialogresponses.txt
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\gameobjects.txt
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\characterbased\dialogbox.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\characterbased\inventory.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\deadscreen.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\finishscreen.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\boots.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\chest.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\gloves.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\head.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\healthcake.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\loot.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_crystal.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_key.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_map.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\weapon.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (01).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (02).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (03).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (04).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (05).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (06).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (07).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (08).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (09).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (01).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (02).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (03).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (04).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (05).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (06).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (07).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (08).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (09).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (01).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (02).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (03).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (04).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (05).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (06).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (07).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (08).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (09).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (01).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (02).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (03).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (04).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (05).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (06).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (07).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (08).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (09).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (01).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (02).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (03).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (04).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (05).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (06).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (07).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (08).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (09).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (10).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (11).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (12).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (01).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (10).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (11).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (12).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (02).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (03).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (04).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (05).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (06).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (07).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (08).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (09).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (01).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (02).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (03).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (04).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (05).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (06).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (07).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (08).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (01).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (02).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (03).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (04).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (05).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (06).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (07).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (08).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (01).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (02).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (03).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (04).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (01).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (02).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (03).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (04).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (01).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (02).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (03).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (04).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (01).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (02).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (03).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (04).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_bk_ (01).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_bk_ (02).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_front_ (01).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_front_ (02).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_left_ (01).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_left_ (02).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_right_ (01).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_right_ (02).png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\startscreen.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;0;.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;1;.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;2;.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;3;.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\1;0;.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\2;0;.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\2;2;.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\2;3;.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;0;.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;1;.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;2;.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;3;.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\4;0;.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\4;1;.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\4;2;.png
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\sounds\background.wav
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\EksamenJuni2010.exe
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\EksamenJuni2010.pdb
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\ResolveAssemblyReference.cache
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.EnterName.resources
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.GameForm.resources
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.Properties.Resources.resources
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\ResGen.read.1.tlog
+D:\Dropbox\Stuff\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\ResGen.write.1.tlog
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.exe
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.pdb
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\dialogresponses.txt
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\gameobjects.txt
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\characterbased\dialogbox.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\characterbased\inventory.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\deadscreen.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\finishscreen.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\icons\boots.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\icons\chest.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\icons\gloves.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\icons\head.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\icons\healthcake.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\icons\loot.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_crystal.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_key.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_map.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\icons\weapon.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (01).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (02).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (03).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (04).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (05).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (06).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (07).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (08).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (09).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (01).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (02).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (03).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (04).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (05).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (06).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (07).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (08).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (09).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (01).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (02).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (03).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (04).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (05).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (06).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (07).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (08).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (09).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (01).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (02).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (03).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (04).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (05).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (06).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (07).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (08).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (09).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (01).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (02).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (03).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (04).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (05).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (06).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (07).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (08).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (09).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (10).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (11).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (12).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (01).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (10).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (11).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (12).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (02).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (03).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (04).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (05).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (06).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (07).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (08).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (09).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (01).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (02).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (03).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (04).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (05).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (06).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (07).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (08).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (01).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (02).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (03).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (04).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (05).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (06).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (07).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (08).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (01).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (02).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (03).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (04).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (01).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (02).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (03).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (04).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (01).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (02).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (03).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (04).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (01).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (02).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (03).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (04).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_bk_ (01).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_bk_ (02).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_front_ (01).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_front_ (02).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_left_ (01).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_left_ (02).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_right_ (01).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_right_ (02).png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\startscreen.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\world\0;0;.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\world\0;1;.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\world\0;2;.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\world\0;3;.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\world\1;0;.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\world\2;0;.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\world\2;2;.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\world\2;3;.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\world\3;0;.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\world\3;1;.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\world\3;2;.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\world\3;3;.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\world\4;0;.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\world\4;1;.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\graphics\world\4;2;.png
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\sounds\background.wav
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\EksamenJuni2010.exe
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\bin\Release\EksamenJuni2010.pdb
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.EnterName.resources
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.GameForm.resources
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.Properties.Resources.resources
+C:\Users\Kenneth\Desktop\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.csproj.GenerateResource.Cache
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.exe
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.pdb
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.exe
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.pdb
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\dialogresponses.txt
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\gameobjects.txt
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\characterbased\dialogbox.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\characterbased\inventory.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\deadscreen.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\finishscreen.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\boots.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\chest.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\gloves.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\head.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\healthcake.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\loot.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_crystal.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_key.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_map.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\weapon.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (01).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (02).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (03).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (04).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (05).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (06).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (07).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (08).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (09).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (01).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (02).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (03).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (04).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (05).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (06).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (07).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (08).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (09).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (01).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (02).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (03).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (04).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (05).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (06).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (07).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (08).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (09).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (01).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (02).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (03).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (04).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (05).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (06).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (07).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (08).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (09).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (01).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (02).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (03).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (04).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (05).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (06).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (07).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (08).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (09).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (10).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (11).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (12).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (01).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (10).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (11).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (12).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (02).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (03).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (04).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (05).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (06).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (07).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (08).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (09).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (01).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (02).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (03).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (04).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (05).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (06).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (07).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (08).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (01).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (02).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (03).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (04).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (05).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (06).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (07).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (08).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (01).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (02).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (03).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (04).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (01).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (02).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (03).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (04).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (01).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (02).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (03).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (04).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (01).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (02).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (03).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (04).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_bk_ (01).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_bk_ (02).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_front_ (01).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_front_ (02).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_left_ (01).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_left_ (02).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_right_ (01).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_right_ (02).png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\startscreen.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;0;.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;1;.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;2;.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;3;.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\1;0;.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\2;0;.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\2;2;.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\2;3;.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;0;.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;1;.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;2;.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;3;.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\4;0;.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\4;1;.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\4;2;.png
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\sounds\background.wav
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\EksamenJuni2010.exe
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\EksamenJuni2010.pdb
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.csprojResolveAssemblyReference.cache
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.EnterName.resources
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.GameForm.resources
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.Properties.Resources.resources
+F:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.csproj.GenerateResource.Cache
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\dialogresponses.txt
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\gameobjects.txt
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\characterbased\dialogbox.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\characterbased\inventory.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\deadscreen.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\finishscreen.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\boots.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\chest.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\gloves.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\head.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\healthcake.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\loot.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_crystal.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_key.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_map.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\weapon.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (01).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (02).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (03).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (04).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (05).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (06).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (07).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (08).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (09).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (01).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (02).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (03).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (04).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (05).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (06).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (07).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (08).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (09).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (01).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (02).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (03).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (04).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (05).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (06).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (07).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (08).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (09).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (01).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (02).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (03).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (04).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (05).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (06).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (07).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (08).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (09).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (01).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (02).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (03).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (04).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (05).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (06).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (07).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (08).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (09).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (10).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (11).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (12).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (01).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (10).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (11).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (12).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (02).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (03).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (04).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (05).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (06).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (07).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (08).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (09).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (01).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (02).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (03).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (04).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (05).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (06).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (07).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (08).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (01).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (02).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (03).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (04).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (05).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (06).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (07).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (08).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (01).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (02).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (03).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (04).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (01).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (02).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (03).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (04).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (01).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (02).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (03).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (04).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (01).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (02).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (03).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (04).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_bk_ (01).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_bk_ (02).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_front_ (01).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_front_ (02).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_left_ (01).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_left_ (02).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_right_ (01).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_right_ (02).png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\startscreen.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;0;.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;1;.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;2;.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;3;.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\1;0;.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\2;0;.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\2;2;.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\2;3;.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;0;.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;1;.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;2;.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;3;.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\4;0;.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\4;1;.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\4;2;.png
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\sounds\background.wav
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\EksamenJuni2010.exe
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\EksamenJuni2010.pdb
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.csprojResolveAssemblyReference.cache
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.EnterName.resources
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.GameForm.resources
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.Properties.Resources.resources
+D:\Work\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.csproj.GenerateResource.Cache
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.exe
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.pdb
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\dialogresponses.txt
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\gameobjects.txt
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\characterbased\dialogbox.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\characterbased\inventory.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\deadscreen.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\finishscreen.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\boots.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\chest.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\gloves.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\head.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\healthcake.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\loot.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_crystal.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_key.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_map.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\weapon.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (01).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (02).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (03).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (04).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (05).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (06).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (07).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (08).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (09).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (01).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (02).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (03).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (04).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (05).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (06).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (07).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (08).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (09).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (01).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (02).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (03).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (04).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (05).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (06).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (07).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (08).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (09).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (01).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (02).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (03).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (04).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (05).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (06).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (07).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (08).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (09).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (01).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (02).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (03).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (04).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (05).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (06).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (07).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (08).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (09).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (10).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (11).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (12).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (01).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (10).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (11).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (12).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (02).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (03).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (04).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (05).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (06).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (07).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (08).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (09).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (01).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (02).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (03).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (04).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (05).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (06).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (07).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (08).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (01).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (02).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (03).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (04).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (05).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (06).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (07).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (08).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (01).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (02).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (03).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (04).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (01).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (02).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (03).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (04).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (01).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (02).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (03).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (04).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (01).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (02).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (03).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (04).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_bk_ (01).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_bk_ (02).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_front_ (01).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_front_ (02).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_left_ (01).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_left_ (02).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_right_ (01).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_right_ (02).png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\startscreen.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;0;.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;1;.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;2;.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;3;.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\1;0;.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\2;0;.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\2;2;.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\2;3;.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;0;.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;1;.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;2;.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;3;.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\4;0;.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\4;1;.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\4;2;.png
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\sounds\background.wav
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\EksamenJuni2010.exe
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\EksamenJuni2010.pdb
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.csprojResolveAssemblyReference.cache
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.EnterName.resources
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.GameForm.resources
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.Properties.Resources.resources
+F:\myOffice\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.csproj.GenerateResource.Cache
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.exe
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.pdb
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\dialogresponses.txt
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\gameobjects.txt
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\characterbased\dialogbox.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\characterbased\inventory.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\deadscreen.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\finishscreen.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\boots.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\chest.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\gloves.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\head.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\healthcake.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\loot.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_crystal.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_key.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\questitem_map.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\icons\weapon.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (01).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (02).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (03).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (04).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (05).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (06).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (07).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (08).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (09).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (01).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (02).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (03).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (04).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (05).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (06).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (07).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (08).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (09).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (01).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (02).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (03).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (04).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (05).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (06).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (07).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (08).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (09).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (01).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (02).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (03).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (04).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (05).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (06).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (07).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (08).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (09).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (01).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (02).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (03).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (04).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (05).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (06).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (07).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (08).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (09).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (10).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (11).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (12).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (01).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (10).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (11).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (12).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (02).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (03).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (04).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (05).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (06).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (07).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (08).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (09).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (01).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (02).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (03).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (04).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (05).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (06).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (07).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (08).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (01).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (02).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (03).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (04).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (05).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (06).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (07).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (08).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (01).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (02).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (03).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (04).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (01).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (02).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (03).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (04).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (01).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (02).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (03).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (04).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (01).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (02).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (03).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (04).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_bk_ (01).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_bk_ (02).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_front_ (01).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_front_ (02).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_left_ (01).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_left_ (02).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_right_ (01).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_right_ (02).png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\startscreen.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;0;.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;1;.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;2;.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\0;3;.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\1;0;.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\2;0;.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\2;2;.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\2;3;.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;0;.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;1;.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;2;.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\3;3;.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\4;0;.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\4;1;.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\graphics\world\4;2;.png
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\sounds\background.wav
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\EksamenJuni2010.exe
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\bin\Release\EksamenJuni2010.pdb
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.csprojResolveAssemblyReference.cache
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.EnterName.resources
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.GameForm.resources
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.Properties.Resources.resources
+\\DISKSTATION\home\StorageUnit\SPDA - Skole\1 Semester\Eksamen Sommer 2010\CD\EksamenJuni2010\obj\Release\EksamenJuni2010.csproj.GenerateResource.Cache
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\dialogresponses.txt
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\gameobjects.txt
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\characterbased\dialogbox.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\characterbased\inventory.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\deadscreen.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\finishscreen.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\icons\boots.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\icons\chest.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\icons\gloves.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\icons\head.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\icons\healthcake.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\icons\loot.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\icons\questitem_crystal.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\icons\questitem_key.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\icons\questitem_map.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\icons\weapon.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (01).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (02).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (03).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (04).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (05).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (06).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (07).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (08).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_bk_ (09).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (01).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (02).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (03).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (04).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (05).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (06).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (07).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (08).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_front_ (09).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (01).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (02).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (03).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (04).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (05).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (06).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (07).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (08).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_left_ (09).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (01).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (02).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (03).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (04).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (05).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (06).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (07).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (08).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_atk_right_ (09).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (01).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (02).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (03).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (04).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (05).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (06).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (07).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (08).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (09).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (10).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (11).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_bk_ (12).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (01).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (10).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (11).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (12).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (02).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (03).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (04).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (05).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (06).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (07).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (08).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_front_ (09).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (01).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (02).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (03).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (04).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (05).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (06).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (07).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_left_ (08).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (01).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (02).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (03).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (04).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (05).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (06).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (07).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\player_run_right_ (08).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (01).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (02).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (03).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_bk_ (04).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (01).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (02).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (03).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_front_ (04).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (01).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (02).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (03).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_left_ (04).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (01).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (02).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (03).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_atk_right_ (04).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_bk_ (01).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_bk_ (02).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_front_ (01).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_front_ (02).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_left_ (01).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_left_ (02).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_right_ (01).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\sprites\skelet_run_right_ (02).png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\startscreen.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\world\0;0;.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\world\0;1;.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\world\0;2;.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\world\0;3;.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\world\1;0;.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\world\2;0;.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\world\2;2;.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\world\2;3;.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\world\3;0;.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\world\3;1;.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\world\3;2;.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\world\3;3;.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\world\4;0;.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\world\4;1;.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\graphics\world\4;2;.png
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\sounds\background.wav
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\EksamenJuni2010.exe
+C:\Users\knnth\Desktop\EksamenJuni2010\bin\Release\EksamenJuni2010.pdb
+C:\Users\knnth\Desktop\EksamenJuni2010\obj\Release\EksamenJuni2010.csprojAssemblyReference.cache
+C:\Users\knnth\Desktop\EksamenJuni2010\obj\Release\EksamenJuni2010.EnterName.resources
+C:\Users\knnth\Desktop\EksamenJuni2010\obj\Release\EksamenJuni2010.GameForm.resources
+C:\Users\knnth\Desktop\EksamenJuni2010\obj\Release\EksamenJuni2010.Properties.Resources.resources
+C:\Users\knnth\Desktop\EksamenJuni2010\obj\Release\EksamenJuni2010.csproj.GenerateResource.cache
+C:\Users\knnth\Desktop\EksamenJuni2010\obj\Release\EksamenJuni2010.exe
+C:\Users\knnth\Desktop\EksamenJuni2010\obj\Release\EksamenJuni2010.pdb
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\dialogresponses.txt
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\gameobjects.txt
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\characterbased\dialogbox.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\characterbased\inventory.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\deadscreen.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\finishscreen.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\icons\boots.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\icons\chest.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\icons\gloves.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\icons\head.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\icons\healthcake.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\icons\loot.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\icons\questitem_crystal.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\icons\questitem_key.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\icons\questitem_map.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\icons\weapon.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_bk_ (01).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_bk_ (02).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_bk_ (03).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_bk_ (04).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_bk_ (05).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_bk_ (06).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_bk_ (07).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_bk_ (08).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_bk_ (09).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_front_ (01).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_front_ (02).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_front_ (03).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_front_ (04).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_front_ (05).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_front_ (06).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_front_ (07).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_front_ (08).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_front_ (09).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_left_ (01).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_left_ (02).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_left_ (03).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_left_ (04).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_left_ (05).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_left_ (06).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_left_ (07).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_left_ (08).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_left_ (09).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_right_ (01).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_right_ (02).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_right_ (03).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_right_ (04).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_right_ (05).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_right_ (06).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_right_ (07).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_right_ (08).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_atk_right_ (09).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_bk_ (01).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_bk_ (02).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_bk_ (03).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_bk_ (04).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_bk_ (05).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_bk_ (06).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_bk_ (07).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_bk_ (08).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_bk_ (09).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_bk_ (10).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_bk_ (11).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_bk_ (12).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_front_ (01).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_front_ (10).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_front_ (11).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_front_ (12).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_front_ (02).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_front_ (03).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_front_ (04).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_front_ (05).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_front_ (06).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_front_ (07).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_front_ (08).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_front_ (09).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_left_ (01).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_left_ (02).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_left_ (03).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_left_ (04).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_left_ (05).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_left_ (06).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_left_ (07).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_left_ (08).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_right_ (01).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_right_ (02).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_right_ (03).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_right_ (04).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_right_ (05).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_right_ (06).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_right_ (07).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\player_run_right_ (08).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_atk_bk_ (01).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_atk_bk_ (02).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_atk_bk_ (03).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_atk_bk_ (04).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_atk_front_ (01).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_atk_front_ (02).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_atk_front_ (03).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_atk_front_ (04).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_atk_left_ (01).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_atk_left_ (02).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_atk_left_ (03).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_atk_left_ (04).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_atk_right_ (01).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_atk_right_ (02).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_atk_right_ (03).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_atk_right_ (04).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_run_bk_ (01).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_run_bk_ (02).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_run_front_ (01).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_run_front_ (02).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_run_left_ (01).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_run_left_ (02).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_run_right_ (01).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\sprites\skelet_run_right_ (02).png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\startscreen.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\world\0;0;.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\world\0;1;.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\world\0;2;.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\world\0;3;.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\world\1;0;.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\world\2;0;.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\world\2;2;.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\world\2;3;.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\world\3;0;.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\world\3;1;.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\world\3;2;.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\world\3;3;.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\world\4;0;.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\world\4;1;.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\graphics\world\4;2;.png
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\sounds\background.wav
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\EksamenJuni2010.exe
+C:\Users\knnth\Desktop\ZeldaClone\bin\Release\EksamenJuni2010.pdb
+C:\Users\knnth\Desktop\ZeldaClone\obj\Release\EksamenJuni2010.csprojAssemblyReference.cache
+C:\Users\knnth\Desktop\ZeldaClone\obj\Release\EksamenJuni2010.EnterName.resources
+C:\Users\knnth\Desktop\ZeldaClone\obj\Release\EksamenJuni2010.GameForm.resources
+C:\Users\knnth\Desktop\ZeldaClone\obj\Release\EksamenJuni2010.Properties.Resources.resources
+C:\Users\knnth\Desktop\ZeldaClone\obj\Release\EksamenJuni2010.csproj.GenerateResource.cache
+C:\Users\knnth\Desktop\ZeldaClone\obj\Release\EksamenJuni2010.exe
+C:\Users\knnth\Desktop\ZeldaClone\obj\Release\EksamenJuni2010.pdb
